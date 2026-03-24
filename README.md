@@ -45,7 +45,7 @@ tech-challenge-fase-5-passos-magicos/
 git clone https://github.com/josecarlosdacruz/tech-challenge-fase-5-passos-magicos
 cd tech-challenge-fase-5-passos-magicos
 
-2. Ambiente Virtual
+### 2. Ambiente Virtual
 
 python -m venv venv
 source venv/bin/activate  # Linux/Mac
