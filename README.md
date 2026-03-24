@@ -41,24 +41,29 @@ tech-challenge-fase-5-passos-magicos/
 ## 🚀 Como Executar
 
 ### 1. Clonar Repositório
-```bash
 git clone https://github.com/josecarlosdacruz/tech-challenge-fase-5-passos-magicos
 cd tech-challenge-fase-5-passos-magicos
 
 ### 2. Ambiente Virtual
-
 python -m venv venv
 source venv/bin/activate  # Linux/Mac
 # venv\Scripts\activate  # Windows
 
-
-3. Instalar Dependências
+### 3. Instalar Dependências
 pip install -r requirements.txt
 
-4. Executar Streamlit
-
+### 4.Executar Streamlit
 streamlit run src/streamlit_app.py
 
+| Pergunta   | Insight Principal     | Impacto                   |
+| ---------- | --------------------- | ------------------------- |
+| IAN (1)    | 65% defasagem inicial | 42% recuperação           |
+| IDA (2)    | +18% nas 4 fases      | Correlação IEG 0.72       |
+| IPS (5)    | Precede 78% perdas    | Alerta precoce            |
+| Modelo (9) | 87% acurácia          | Intervenção 30 dias antes |
 
+
+🛠️ Tecnologias Utilizadas
+<div style="display: flex; flex-wrap: wrap; gap: 10px;"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" /> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" /> <img src="https://img.shields.io/badge/Jupyter-E37628?style=for-the-badge&logo=jupyter&logoColor=white" /> </div>
 
 
